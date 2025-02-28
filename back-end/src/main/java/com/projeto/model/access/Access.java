@@ -2,5 +2,7 @@ package com.projeto.model.access;
 
 public class Access {
     private int id;
-    private date;
+    private String status;
+    private LocalDateTime dateTime;
+
 }
